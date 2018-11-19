@@ -1,3 +1,6 @@
+#ifndef __POLI_HEADER_
+#define __POLI_HEADER_
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -16,3 +19,6 @@ void imprimir(poli* lst);
 void eliminarTermo(int x, poli** lst);
 void reinicializar(poli** lst);
 double calcularPoli(int x, poli* lst);
+
+
+#endif

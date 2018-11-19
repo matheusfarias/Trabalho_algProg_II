@@ -1,3 +1,5 @@
+#ifndef __TAD_II_
+#define __TAD_II_
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -17,3 +19,5 @@ int tamanhoLista(celula* lst);
 int maior(celula* lst);
 celula* concatenar(celula* lst1, celula* lst2);
 void imprimir(celula* lst);
+
+#endif

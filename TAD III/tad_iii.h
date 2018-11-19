@@ -1,3 +1,5 @@
+#ifndef __TAD_III_
+#define __TAD_III_
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -16,3 +18,5 @@ void removeOcorrencias(int x, celula** lst);
 int tamanhoLista(celula* lst);
 int verificaIgual(celula* lst1, celula* lst2);
 void imprimir(celula* lst);
+
+#endif
