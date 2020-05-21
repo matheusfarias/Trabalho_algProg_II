@@ -7,5 +7,5 @@ Arquivos da disciplina Algoritmos e Programação II
 1. Doubly Linked List (ordered)
 
 ## Aplicação 
-### _Polinomy calculator_  
+### _polynomial calculator_  
 * Programa para cálculo e manipulação de polinômios
