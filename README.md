@@ -1,4 +1,4 @@
-# AlgProg II - FACOM 2018/1
+# Alg. Prog. II - FACOM 2018/1
 Arquivos da disciplina Algoritmos e Programação II
 
 ## Tipos Abstratos de Dados (TADs)
@@ -6,5 +6,6 @@ Arquivos da disciplina Algoritmos e Programação II
 1. Circular Linked List
 1. Doubly Linked List (ordered)
 
-## Aplicação
+## Aplicação 
+### _Polinomy calculator_  
 * Programa para cálculo e manipulação de polinômios
